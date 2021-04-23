@@ -9,6 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=lchastanet&show_icons=true&theme=palenight" alt="lchastanet" /></a>
-<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lchastanet&layout=compact&hide=html,css&theme=palenight" alt="lchastanet" /></a>
+<a><img align="left" src="https://github-readme-stats.vercel.app/api?username=lchastanet&show_icons=true&theme=material-palenight" alt="lchastanet" /></a>
+<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lchastanet&layout=compact&hide=html,css&theme=material-palenight" alt="lchastanet" /></a>
 
