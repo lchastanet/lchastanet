@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**lchastanet/lchastanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1 align="center">Hi there 👋</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,7 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lchastanet&layout=compact&hide=html,css&theme=tokyonight" alt="lchastanet" /></a>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=lchastanet&show_icons=true&theme=tokyonight" alt="lchastanet" /></a>
+
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=lchastanet&show_icons=true&theme=palenight" alt="lchastanet" /></a>
+<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lchastanet&layout=compact&hide=html,css&theme=palenight" alt="lchastanet" /></a>
 
