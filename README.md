@@ -12,7 +12,7 @@
 <br>
 
 <a><img align="left" src="https://github-readme-stats.vercel.app/api?username=lchastanet&show_icons=true&theme=material-palenight" alt="lchastanet" /></a>
-<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lchastanet&layout=compact&hide=html,css&theme=material-palenight" alt="lchastanet" /></a>
+<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lchastanet&layout=compact&hide=html&theme=material-palenight" alt="lchastanet" /></a>
 
 [wildspacelab]: https://wildspacelab.com/ "WildSpaceLab"
 [linkedin]: https://www.linkedin.com/in/loris-chastanet/ "LinkedIn"
