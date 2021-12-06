@@ -4,7 +4,7 @@
 <br>
 
 -   🔭 I’m currently working with [WildSpaceLab].
--   🌱 I’m currently learning Flutter.
+-   🌱 I’m currently learning many things (as usual).
 -   💬 Ask me about on anything i can help you about.
 -   📫 How to reach me: [LinkedIn].
 -   ⚡ Fun fact: <blockquote><p>Time is an illusion. Lunchtime doubly so.</p></blockquote>
