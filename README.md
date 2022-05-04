@@ -13,6 +13,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lchastanet&show_icons=true&locale=en&theme=material-palenight" alt="lchastanet" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lchastanet&show_icons=true&locale=en&theme=tokyonight" alt="lchastanet" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lchastanet&show_icons=true&locale=en&layout=compact&hide=html&theme=material-palenight" alt="lchastanet" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lchastanet&show_icons=true&locale=en&layout=compact&hide=html&hide=css&theme=tokyonight" alt="lchastanet" /></p>
